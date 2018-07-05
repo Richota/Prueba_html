@@ -24,3 +24,23 @@ body {
 	margin-bottom: 50px;
 	text-align: center;
 }
+
+.titulo {
+	color: green;
+	padding: 10px;
+	margin-bottom: 20px;
+
+}
+
+.parrafos {
+	text-align: left;
+}
+
+.jumbotron {
+
+	border-top: solid 1px gray;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+
